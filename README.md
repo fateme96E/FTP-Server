@@ -28,9 +28,9 @@ $ ./ftp.out
   </div></div>
   
   <h5>Now you should enter the commands in clients terminal</h5>
+  <sub>(config.json file is an example of 2 client for our server.)</sub><br><br>
   <hr>
   <h3>2)Commands</h3>
-  <sub>(config.json file is an example of 2 client for our server.)</sub><br><br>
       <ul dir="auto">
         <li>
             <h4>Authentication commands: </h4>
