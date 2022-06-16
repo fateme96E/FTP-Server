@@ -1,0 +1,20 @@
+2022-03-27 15:02:44 :: User with user name «Ali» logged in.
+2022-03-27 15:02:47 :: User with user name «Ali» entered password and is authorized.
+2022-03-27 15:03:00 :: User with user name «Ali» logged out.
+2022-03-27 15:04:29 :: User with user name «Mohsen» logged in.
+2022-03-27 15:05:12 :: User with user name «Mohsen» entered password and is authorized.
+2022-03-27 15:05:31 :: User with user name «Mohsen» logged out.
+2022-03-27 15:07:25 :: User with user name «Ali» logged in.
+2022-03-27 15:07:29 :: User with user name «Ali» entered password and is authorized.
+2022-03-27 15:08:24 :: User with user name «Ali» create directory «/home/fateme/Desktop/test/CN_CA1_810197515_810197539/temp».
+2022-03-27 15:08:49 :: User with user name «Ali» changed directory from «/home/fateme/Desktop/test/CN_CA1_810197515_810197539» to «/home/fateme/Desktop/test/CN_CA1_810197515_810197539/client».
+2022-03-27 15:09:00 :: User with user name «Ali» changed directory from «/home/fateme/Desktop/test/CN_CA1_810197515_810197539/client» to «/home/fateme/Desktop/test/CN_CA1_810197515_810197539».
+2022-03-27 15:10:39 :: User with user name «Ali» downloaded file «log.txt».
+2022-03-27 15:11:06 :: User with user name «Ali» logged out.
+2022-03-27 15:11:24 :: User with user name «Mohsen» logged in.
+2022-03-27 15:11:27 :: User with user name «Mohsen» entered password and is authorized.
+2022-03-27 15:12:17 :: User with user name «Mohsen» create directory «/home/fateme/Desktop/test/CN_CA1_810197515_810197539/motest».
+2022-03-27 15:12:26 :: User with user name «Mohsen» logged out.
+2022-03-27 15:13:29 :: User with user name «Ali» logged in.
+2022-03-27 15:13:32 :: User with user name «Ali» entered password and is authorized.
+2022-03-27 15:13:53 :: User with user name «Ali» logged out.
